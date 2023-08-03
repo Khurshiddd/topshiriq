@@ -29,8 +29,9 @@ Terminal orqali qilinadigan ishlar
 
     php artisan key:generate
     npm install
-    php artisan migrate
+    php artisan migrate --seed
     php artisan storage:link
     php artisan serve
     npm run dev
 va malumotlar bazasini to'ldirishni unutmang!!!
+userlar seederda 
